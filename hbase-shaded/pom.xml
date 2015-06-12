@@ -96,10 +96,6 @@
                                         <shadedPattern>org.apache.hadoop.hbase.shaded.net</shadedPattern>
                                     </relocation>
                                     <relocation>
-                                        <pattern>javax</pattern>
-                                        <shadedPattern>org.apache.hadoop.hbase.shaded.javax</shadedPattern>
-                                    </relocation>
-                                    <relocation>
                                         <pattern>io</pattern>
                                         <shadedPattern>org.apache.hadoop.hbase.shaded.io</shadedPattern>
                                     </relocation>
